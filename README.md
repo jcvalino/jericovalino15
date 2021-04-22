@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jericovalino15
+- 👋 Hi, I’m Jerico Valino
 - 👀 I’m interested in Web Delopment
 - 🌱 I’m currently learning PWA
 
