@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jerico Valino
 - 👀 I’m interested in Web Delopment
-- 🌱 I’m currently learning PWA 
-	- [Service Workers, Caching, Push Notifications]
+- 🌱 I’m currently learning the ff;
+	- PWA [Service Workers, Caching, Push Notifications]
 	- Data Visualization with D3.js
 
 <!---
