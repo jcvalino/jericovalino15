@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jerico Valino
-- 👀 I’m interested in Web Delopment
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning the ff;
  	- Data Visualization with D3.js
 	- PWA [Service Workers, Caching, Push Notifications]
