@@ -4,6 +4,8 @@
  	- Data Visualization with D3.js
 	
 
+
+![jericovalino15's Stats](https://github-readme-stats.vercel.app/api?username=jericovalino15&theme=react&show_icons=true&hide_border=true&count_private=true)
 <!---
 jericovalino15/jericovalino15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
