@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning the ff;
   - Solid.js
- 	- Data Visualization with D3.js
+  - Data Visualization with D3.js
 
 <!---
 jericovalino15/jericovalino15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
