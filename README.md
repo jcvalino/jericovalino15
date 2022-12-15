@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning the ff;
   - Solid.js
+  - TypeScript
   - Data Visualization with D3.js
 
 <!---
